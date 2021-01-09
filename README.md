@@ -7,4 +7,4 @@ Valerie Dandar,
 Rebekah H.
 
 Included here are our 2 data files via Excel, Jupyter Notebook, and Technial Report. 
-Please note, we did not upload the config file for security reasons. We additionally deleted the output that printed our connection at the beginning of the file since that included the credentials.
+Please note, we did not upload the config file for security reasons. We additionally deleted the output that printed our connection string at the beginning of the Jupyter Notebook file since that included the credentials.
